@@ -18,3 +18,12 @@ export {permutate};
 // console.log(permutate(10,4));
 
 console.log('cokokokookokokokok')
+console.log('cokokokookokokokok')
+console.log('cokokokookokokokok')
+console.log('cokokokookokokokok')
+console.log('cokokokookokokokok')
+console.log('cokokokookokokokok')
+console.log('cokokokookokokokok')
+console.log('cokokokookokokokok')
+console.log('cokokokookokokokok')
+console.log('cokokokookokokokok')
