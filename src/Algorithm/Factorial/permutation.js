@@ -15,4 +15,4 @@ const permutate = (n, k) => {
 
 export {permutate};
 
-console.log(permutate(10,4));
+// console.log(permutate(10,4));
