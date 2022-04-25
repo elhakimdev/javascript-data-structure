@@ -1,9 +1,8 @@
 /**
  * Factorize the given parameters
  * 
- * 
- * @param {Number} number 
- * @returns Number
+ * @param {Number} number The number that need to be factorialize.
+ * @returns {Number} result.
  */
 const factorize = (number) => {
     return number < 0 ? -1 : number == 0 ? 1 : number * factorize(number - 1);

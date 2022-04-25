@@ -4,7 +4,6 @@ import { factorize } from "../Factorial/factorial.js";
 /**
  * Calculate permutation
  * 
- * 
  * @param {Number} n The first number 
  * @param {Number} k The divider
  * @returns {Number} The result of permutational set.
